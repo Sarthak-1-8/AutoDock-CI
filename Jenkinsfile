@@ -9,7 +9,7 @@ pipeline {
     stages {
         stage('Clone Code') {
             steps {
-                git 'https://github.com/your-username/flask-hello-world.git'
+                git 'https://github.com/Sarthak-1-8/AutoDock-CI.git'
             }
         }
 
